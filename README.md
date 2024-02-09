@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on redoing my past projects.
+I'm currently working on making my past projects better.
 
 I'm currently learning C++.
 
