@@ -1,4 +1,4 @@
-![giphy](https://github.com/Jessjean17/Jessjean17/assets/140281920/61af4e5e-85a4-45bb-8081-d7ca79a11cea)
+![giphy](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif?cid=ecf05e47stcvfir3ezlpty2gagvzakmxonf72osjzaensdto&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ### Hi there 👋
 
 I'm currently working on making my past projects better.
